@@ -3,9 +3,9 @@
 Aula de git com a turma do EM8
 
 ### Configurções minimas:
-*[Git]
+* [Git]
 * [Google Chrome]
-*[Atom Editor]
+* [Atom Editor]
 
 [Git]: <https://git-scm.com/>
 [Google Chrome]: <http://www.google.com.br/>
